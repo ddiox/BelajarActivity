@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BelajarActivity</string>
+    <string name="basic_statistics">Basic Statistics</string>
+    <string name="nilai_pertama">Nilai Pertama</string>
+    <string name="nilai_kedua">Nilai Kedua</string>
+    <string name="nilai_ketiga">Nilai Ketiga</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">reset</string>
+
+</resources>
